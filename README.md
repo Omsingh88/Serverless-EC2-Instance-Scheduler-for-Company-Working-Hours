@@ -35,3 +35,4 @@ In some companies there is no need to run EC2 instances 24/7; You need instances
 
 1. Navigate to the lambda Console.
 2. Follow the Outlined steps below.
+.
