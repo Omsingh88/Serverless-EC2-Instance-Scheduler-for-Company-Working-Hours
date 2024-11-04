@@ -88,25 +88,25 @@ Now again , go to the Lambda console and then test the code.
 1. Go to the Cloud Watch Console.
 2. Follow the Outlined Steps below.
 
- [2](screenshot/21.png)
+![1](screenshot/21.png)
  
- [2](screenshot/22.png)
+ ![2](screenshot/22.png)
  
- [2](screenshot/23.png)
+ ![2](screenshot/23.png)
  
- [2](screenshot/24.png)
+ ![2](screenshot/24.png)
  
- [2](screenshot/25.png)
+ ![2](screenshot/25.png)
  
- [2](screenshot/26.png)
+ ![2](screenshot/26.png)
  
- [2](screenshot/27.png)
+ ![2](screenshot/27.png)
  
- [2](screenshot/28.png)
+ ![2](screenshot/28.png)
  
- [2](screenshot/29.png)
+ ![2](screenshot/29.png)
  
- [2](screenshot/30.png)
+ ![2](screenshot/30.png)
 
  3. We have now created a schedule for starting the instance every day at 8:00 AM.<br>
 4. Next, we need to create a schedule for stopping instances.<br>
@@ -114,15 +114,15 @@ Now again , go to the Lambda console and then test the code.
 6. The changes include modifying the scheduled time and selecting the appropriate scheduling function.<br>
 7. We need to change the schedule time to 18:00 because it will stop the Lambda function at 18:00 IST (6:00 PM).
 
- [2](screenshot/31.png)
+ ![2](screenshot/31.png)
 
  8. We have to Change the Function as Stop-EC2-demo
 
- [2](screenshot/32.png)
+ ![2](screenshot/32.png)
 
 9. Now, we have successfully created two schedules: one to start the instance every day at 8:00 AM and the other to stop the instance every day at 6:00 PM.
 
 
- [2](screenshot/33.png)
+ ![2](screenshot/33.png)
 
 
